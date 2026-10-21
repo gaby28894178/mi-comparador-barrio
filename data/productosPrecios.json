@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "nombre": "Yerba Mate 1kg",
+    "comercios": [
+      { "negocio": "Despensa María", "precio": 4800 },
+      { "negocio": "Supermercado Norte", "precio": 5200 },
+      { "negocio": "Almacén Don José", "precio": 4500 }
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "Leche Entera 1L",
+    "comercios": [
+      { "negocio": "Despensa María", "precio": 1500 },
+      { "negocio": "Supermercado Norte", "precio": 1700 },
+      { "negocio": "Almacén Don José", "precio": 1600 }
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "Pan Felipe 1kg",
+    "comercios": [
+      { "negocio": "Despensa María", "precio": 2200 },
+      { "negocio": "Supermercado Norte", "precio": 2000 },
+      { "negocio": "Almacén Don José", "precio": 2400 }
+    ]
+  }
+]
